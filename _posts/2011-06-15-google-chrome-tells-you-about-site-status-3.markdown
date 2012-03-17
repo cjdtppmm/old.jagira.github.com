@@ -6,6 +6,9 @@ slug: google-chrome-tells-you-about-site-status-3
 status: publish
 title: Google Chrome Tells You About Site Status
 wordpress_id: '6'
+tags:
+- google
+- internet
 ---
 
 Nice feature.

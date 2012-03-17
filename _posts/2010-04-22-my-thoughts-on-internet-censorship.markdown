@@ -5,9 +5,8 @@ layout: post
 slug: my-thoughts-on-internet-censorship
 status: publish
 title: My Thoughts on Internet Censorship
-wordpress_id: '112'
 tags:
-- random
+- thoughts
 ---
 
 Nobody questions Google’s decision of not complying to Chinese

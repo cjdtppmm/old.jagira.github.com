@@ -8,12 +8,9 @@ title: Scraping BSE India Site - Get list of all listed companies along with the
   scrip codes
 wordpress_id: '66'
 tags:
-- bse
-- india
-- nokogiri
-- rails
-- scraper
-- stocks
+- programming
+- hacking
+- ruby
 ---
 
 

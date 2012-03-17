@@ -7,7 +7,7 @@ status: publish
 title: Google +1 ?
 wordpress_id: '60'
 tags:
-- random
+- internet
 ---
 
 

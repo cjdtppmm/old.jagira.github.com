@@ -5,9 +5,7 @@ layout: post
 slug: lesson-for-application-security
 status: publish
 title: Lesson for Application Security
-wordpress_id: '102'
 tags:
-- hacking
 - security
 ---
 

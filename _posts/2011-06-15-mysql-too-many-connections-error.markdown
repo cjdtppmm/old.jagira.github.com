@@ -6,6 +6,10 @@ slug: mysql-too-many-connections-error
 status: publish
 title: MySQL "Too many connections" Error
 wordpress_id: '27'
+tags:
+- devops
+- programming
+- mysql
 ---
 
 "Too many connections" error means that all available connections

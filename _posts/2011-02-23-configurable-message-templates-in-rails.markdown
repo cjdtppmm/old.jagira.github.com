@@ -7,8 +7,8 @@ status: publish
 title: Configurable Message Templates in Rails
 wordpress_id: '59'
 tags:
-- coding
-- rails
+- programming
+- ruby
 ---
 
 Modifying erb templates for small messages is not maintainable when

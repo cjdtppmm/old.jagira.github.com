@@ -5,9 +5,7 @@ layout: post
 slug: application-security-1-artificial-scarcity-using-dos-attack
 status: publish
 title: 'Application Security #1 - Artificial Scarcity Using DoS Attack'
-wordpress_id: '100'
 tags:
-- hacking
 - security
 ---
 

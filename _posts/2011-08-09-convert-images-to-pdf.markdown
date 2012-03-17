@@ -6,6 +6,9 @@ slug: convert-images-to-pdf
 status: publish
 title: Convert Images to PDF
 wordpress_id: '217'
+tags:
+- hacking
+- ruby
 ---
 
 Install ImageMagick and run

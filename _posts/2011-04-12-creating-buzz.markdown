@@ -6,6 +6,9 @@ slug: creating-buzz
 status: publish
 title: 'Creating Buzz '
 wordpress_id: '35'
+tags:
+- marketing
+- internet
 ---
 
 Learning marketing by observing people who are good at it.

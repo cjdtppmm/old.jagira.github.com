@@ -6,6 +6,8 @@ slug: anatomy-of-tech-startup
 status: publish
 title: Anatomy of Tech Startup
 wordpress_id: '28'
+tags:
+- startups
 ---
 
 ![Tech Startup](/images/startups.png)

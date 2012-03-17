@@ -5,9 +5,8 @@ layout: post
 slug: so-very-true
 status: publish
 title: So very true...
-wordpress_id: '109'
 tags:
-- random
+- thoughts
 ---
 
 "There are thoughts which are prayers. There are moments when,

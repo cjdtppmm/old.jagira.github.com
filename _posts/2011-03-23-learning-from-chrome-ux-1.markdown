@@ -6,6 +6,10 @@ slug: learning-from-chrome-ux-1
 status: publish
 title: 'Learning from Chrome UX #1'
 wordpress_id: '46'
+tags:
+- chrome
+- google
+- internet
 ---
 
 

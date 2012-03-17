@@ -3,7 +3,9 @@ layout: post
 title: "A Guide to Deploying Rails Apps"
 date: 2011-12-04 15:09
 comments: true
-categories: 
+tags:
+- devops
+- ruby
 ---
 
 **Note** _This is not a definitive guide or a tutorial. I have simply collected all my notes related to deployment and compiled them into a blog post. Please check the documentation of the tools/apps mentioned here._

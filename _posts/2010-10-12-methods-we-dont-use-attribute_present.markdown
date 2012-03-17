@@ -7,8 +7,7 @@ status: publish
 title: Methods We Don't Use - 'attribute_present?'
 wordpress_id: '87'
 tags:
-- coding
-- rails
+- programming
 - ruby
 ---
 

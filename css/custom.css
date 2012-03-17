@@ -1,0 +1,78 @@
+body {
+  font-size: 16px;
+}
+
+div.site {
+  width: 60em;
+}
+
+a { color: #41B7D8; }
+
+a:visited { color: #41B7D8; }
+
+ul.posts a {
+  color: #333;
+}
+
+ul.posts span {
+  color: rgba(0, 0, 0, 0.75);
+}
+
+/** Tables **/
+
+th, td {
+  padding: 5px 0px;
+}
+
+td { border-bottom: 1px solid #444; }
+
+/** Post **/
+
+#post h2 a{
+  font-size: 120%;
+  color: #333;
+  text-decoration: none;
+}
+
+#post-meta ul{
+  list-style: none;
+  margin-left: 0px;
+}
+
+#post-meta ul li {
+  padding: 10px 25px;
+  display: inline-block;
+}
+
+li#date {
+  background: url(../images/icons/time_clock.png) -0.4% 45% no-repeat;
+  color: rgba(0, 0, 0, 0.75);
+  font-size: 80%;
+}
+
+li#tags {
+  background: url(../images/icons/tag.png) -0.4% 51% no-repeat;
+}
+
+li#tags a {
+  color: #41B7D8;
+  text-decoration: none;
+}
+
+/** Post End **/
+
+/** Footer **/
+
+.site .footer {
+  color: #333;
+  font-size: 90%;
+  border-top-color: #aaa;
+}
+
+.site .footer .contact a {
+  color: #333;
+}
+
+.site .footer .rss {
+  margin-right: 0px;
+}

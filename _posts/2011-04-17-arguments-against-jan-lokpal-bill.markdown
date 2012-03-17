@@ -6,6 +6,8 @@ slug: arguments-against-jan-lokpal-bill
 status: publish
 title: Arguments against Jan Lokpal bill
 wordpress_id: '34'
+tags:
+- politics
 ---
 
 **But won't the government appoint corrupt and weak people as Lokpal members? That won't be possible because its members will be selected by judges, citizens and constitutional authorities and not by politicians, through a completely transparent and participatory process.**

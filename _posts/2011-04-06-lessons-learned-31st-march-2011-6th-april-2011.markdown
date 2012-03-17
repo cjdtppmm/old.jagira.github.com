@@ -6,6 +6,8 @@ slug: lessons-learned-31st-march-2011-6th-april-2011
 status: publish
 title: Lessons learned (31st March 2011 - 6th April 2011)
 wordpress_id: '39'
+tags:
+- thoughts
 ---
 
 **While building something, do not fantasize about end results**

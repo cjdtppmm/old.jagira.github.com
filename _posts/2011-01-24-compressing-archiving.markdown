@@ -6,6 +6,8 @@ slug: compressing-archiving
 status: publish
 title: 'Compressing != Archiving '
 wordpress_id: '65'
+tags:
+- thoughts
 ---
 
 I know some hackers/coders who do not know the difference between

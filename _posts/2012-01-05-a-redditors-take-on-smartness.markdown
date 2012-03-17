@@ -3,7 +3,9 @@ layout: post
 title: "A Redditor's Take on Smartness"
 date: 2012-01-05 13:53
 comments: true
-categories: 
+tags:
+- thoughts
+- philosophy
 ---
 <em>A response from Reddit user <a
 href="http://www.reddit.com/r/confession/comments/nxdzz/im_not_as_smart_as_i_thought_i_was/c3d91jl">Inri137</a></em>
