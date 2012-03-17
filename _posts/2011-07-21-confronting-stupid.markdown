@@ -6,6 +6,8 @@ slug: confronting-stupid
 status: publish
 title: Confronting Stupid
 wordpress_id: '207'
+tags:
+- thoughts
 ---
 
 > Some gigs are process oriented: Set up a process correctly and the

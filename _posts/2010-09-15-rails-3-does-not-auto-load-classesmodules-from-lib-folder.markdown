@@ -5,10 +5,9 @@ layout: post
 slug: rails-3-does-not-auto-load-classesmodules-from-lib-folder
 status: publish
 title: Rails 3 Does Not Auto-Load Classes/Modules From "/lib" Folder
-wordpress_id: '93'
 tags:
-- coding
-- rails
+- programming
+- ruby
 ---
 
 In Rails 3 classes and modules from "**/lib**" folder are not

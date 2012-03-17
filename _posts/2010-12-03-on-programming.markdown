@@ -7,8 +7,7 @@ status: publish
 title: On programming
 wordpress_id: '75'
 tags:
-- coding
-- hackers
+- programming
 ---
 
 Learning to program used to be an inevitable consequence of using

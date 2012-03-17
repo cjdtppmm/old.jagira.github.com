@@ -5,10 +5,8 @@ layout: post
 slug: methods-we-dont-use-dup
 status: publish
 title: Methods We Don't Use - 'dup'
-wordpress_id: '89'
 tags:
-- coding
-- rails
+- programming
 - ruby
 ---
 

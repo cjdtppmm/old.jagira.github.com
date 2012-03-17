@@ -5,11 +5,8 @@ layout: post
 slug: reddit-api-with-ruby-on-rails
 status: publish
 title: Reddit API with Ruby on Rails
-wordpress_id: '103'
 tags:
-- coding
-- newzupp
-- rails
+- programming
 - ruby
 ---
 

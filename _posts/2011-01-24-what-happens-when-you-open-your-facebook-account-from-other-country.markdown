@@ -7,7 +7,8 @@ status: publish
 title: 'What happens when you open your Facebook account from other country? '
 wordpress_id: '64'
 tags:
-- facebook security
+- security
+- facebook
 ---
 
 I created an SSH tunnel \[server located in USA\], used that tunnel

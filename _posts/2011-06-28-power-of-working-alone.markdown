@@ -6,6 +6,8 @@ slug: power-of-working-alone
 status: publish
 title: Power of working alone
 wordpress_id: '162'
+tags:
+- thoughts
 ---
 
 Steve Wozniak said in his book iWoz:

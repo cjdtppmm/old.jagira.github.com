@@ -6,6 +6,8 @@ slug: untitled
 status: publish
 title: Untitled
 wordpress_id: '62'
+tags:
+- random
 ---
 
 *Rails' Engine = Django's App ?*

@@ -6,6 +6,8 @@ slug: connecting-with-your-customers-is-the-most-important-thing
 status: publish
 title: Connecting with your customers is the most important thing
 wordpress_id: '196'
+tags:
+- business
 ---
 
 A comment from

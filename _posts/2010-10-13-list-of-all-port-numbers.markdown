@@ -6,6 +6,9 @@ slug: list-of-all-port-numbers
 status: publish
 title: List of all Port Numbers
 wordpress_id: '78'
+tags:
+- networking
+- security
 ---
 
 [IANA](http://www.iana.org/) maintains a list of all the port

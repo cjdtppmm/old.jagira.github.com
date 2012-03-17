@@ -7,7 +7,8 @@ status: publish
 title: On American Innovation
 wordpress_id: '61'
 tags:
-- innovation
+- thoughts
+- IBM
 ---
 
 At a time when many young entrepreneurs, venture capitalists, and

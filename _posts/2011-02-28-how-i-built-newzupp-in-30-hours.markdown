@@ -6,6 +6,10 @@ slug: how-i-built-newzupp-in-30-hours
 status: publish
 title: How I Built Newzupp in 30 Hours?
 wordpress_id: '56'
+tags:
+- programming
+- ruby
+- pet project
 ---
 
 Today, I deployed the tested and stable version of

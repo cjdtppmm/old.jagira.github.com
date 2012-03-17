@@ -7,7 +7,6 @@ status: publish
 title: 'Daniel Pink @TED : Science of Motivation'
 wordpress_id: '110'
 tags:
-- random
 - science
 ---
 

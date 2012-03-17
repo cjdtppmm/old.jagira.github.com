@@ -5,10 +5,8 @@ layout: post
 slug: private-or-protected-use-private
 status: publish
 title: Private or Protected? Use Private!!!
-wordpress_id: '98'
 tags:
-- coding
-- rails
+- programming
 - ruby
 ---
 

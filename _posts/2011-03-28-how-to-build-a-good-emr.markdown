@@ -6,6 +6,8 @@ slug: how-to-build-a-good-emr
 status: publish
 title: How to build a good EMR?
 wordpress_id: '45'
+tags:
+- thoughts
 ---
 
 There is an inherent gap between how engineers think and how

@@ -6,6 +6,8 @@ slug: first-watcher-for-newzupp-repo
 status: publish
 title: First watcher for Newzupp repo :-)
 wordpress_id: '55'
+tags:
+- pet project
 ---
 
 

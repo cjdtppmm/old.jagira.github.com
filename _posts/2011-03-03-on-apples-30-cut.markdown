@@ -7,6 +7,7 @@ status: publish
 title: On Apple's 30% Cut
 wordpress_id: '47'
 tags:
+- thoughts
 - apple
 ---
 

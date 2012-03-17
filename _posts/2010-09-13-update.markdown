@@ -5,9 +5,8 @@ layout: post
 slug: update
 status: publish
 title: Update
-wordpress_id: '97'
 tags:
-- random
+- self
 ---
 
 Here is the list of things I have been working on -

@@ -5,9 +5,8 @@ layout: post
 slug: howdy
 status: publish
 title: Howdy!!!
-wordpress_id: '113'
 tags:
-- random
+- self
 ---
 
 Howdy,

@@ -7,10 +7,8 @@ status: publish
 title: Digg API with Ruby on Rails
 wordpress_id: '79'
 tags:
-- api
-- coding
-- newzupp
-- rails
+- programming
+- ruby
 ---
 
 [Digg](http://digg.com) is a social news site which made the

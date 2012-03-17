@@ -7,7 +7,7 @@ status: publish
 title: Secure Browsing using SSH Tunnel
 wordpress_id: '63'
 tags:
-- geekstuff
+- howto
 - hacking
 ---
 

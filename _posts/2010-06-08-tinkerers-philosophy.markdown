@@ -5,9 +5,8 @@ layout: post
 slug: tinkerers-philosophy
 status: publish
 title: Tinkerer's philosophy...
-wordpress_id: '107'
 tags:
-- random
+- thoughts
 ---
 
 If it ain't broke, you're not trying hard enough.

@@ -6,6 +6,8 @@ slug: on-middle-men
 status: publish
 title: On Middle Men
 wordpress_id: '76'
+tags:
+- thoughts
 ---
 
 "Middle men exist to reduce the cost of getting a product from A to

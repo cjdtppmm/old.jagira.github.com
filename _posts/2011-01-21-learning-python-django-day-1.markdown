@@ -7,8 +7,8 @@ status: publish
 title: Learning Python + Django - Day 1
 wordpress_id: '72'
 tags:
-- hobby
-- learning
+- self
+- python
 ---
 
 Day 1 observations -

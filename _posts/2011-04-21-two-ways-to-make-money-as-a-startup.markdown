@@ -6,6 +6,8 @@ slug: two-ways-to-make-money-as-a-startup
 status: publish
 title: Two Ways to Make Money as a startup
 wordpress_id: '32'
+tags:
+- thoughts
 ---
 
 There are basically two ways to be financially successful as a

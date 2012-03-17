@@ -7,7 +7,6 @@ status: publish
 title: Untitled
 wordpress_id: '92'
 tags:
-- coding
 - random
 ---
 

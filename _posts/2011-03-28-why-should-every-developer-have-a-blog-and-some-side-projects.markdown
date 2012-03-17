@@ -6,6 +6,8 @@ slug: why-should-every-developer-have-a-blog-and-some-side-projects
 status: publish
 title: Why should every developer have a blog and some side projects?
 wordpress_id: '44'
+tags:
+- thoughts
 ---
 
 Recently Mark Suster wrote a post on Techcrunch titled
