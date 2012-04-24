@@ -72,7 +72,7 @@ These are the popular VPS and cloud server hosts -
 
 There are few other providers as well. The only negative point about VPS / cloud servers is **_poor disk I/O_**. Get a dedicated server if I/O causes to be a bottleneck.
 
-**_Dedicated servers_** are **_expensive_**  than the above mentioned options. They are a full fledged server boxes. They usually come with a fully managed contract or self managed contract. Choose fully managed servers if you do not have in-house server admin skills. Some providers also let you choose an SSD (albeit at a premium). SSD's provide a remarkable performance improvement in disk I/O.
+**_Dedicated servers_** are **_expensive_**  than the above mentioned options. They are full fledged hardware boxes. They usually come with a fully managed contract or self managed contract. Choose fully managed servers if you do not have in-house server admin skills. Some providers also let you choose an SSD (albeit at a premium). SSD's provide a remarkable performance improvement in disk I/O.
 
 Softlayer and Rackspace are popular options for dedicated boxes.
 
