@@ -3,8 +3,7 @@ layout: default
 title: "About - Jigar Patel"
 ---
 
-Howdy! I am [Jigar](http://jigarpatel.in). I am a 25 year old <span style="text-decoration:
-line-through">programmer</span> technology guy from India. I like
+Howdy! I am [Jigar](http://jigarpatel.in), a 25 year old coder from India. I like
 building web applications using ruby/javascript and that earns
 my bread and butter. I used to work with [IBM](http://ibm.com) and
 [Vinsol](http://vinsol.com), but now I work independently, trying to

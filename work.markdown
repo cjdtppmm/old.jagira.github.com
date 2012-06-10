@@ -7,39 +7,71 @@ I build web applications for living and for fun. I also like to tinker
 with servers and linux boxes. Here are some of the
 applications that I built -
 
-##As a freelancer
+<div class="grid">
 
-###[Printfriendly](http://printfriendly.com)
+  <div class="thumb">
+    
+    <img src="/images/work/printfriendly.jpg" alt="printfriendly-jigar-patel"></img>
+    
+    <h2><a href="http://printfriendly.com">Printfriendly</a></h2>
 
-![Printfriendly](/images/work/printfriendly.jpg)
+    <p>Printfriendly makes print friendly version of any web page.</p>
+    
+    <p>Technologies Used - <em>Javascript, Ruby on Rails</em></p>
+  
+    <p>Work Done - <em>Algorithm improvement and optimization, localization feature in the js script and browser extensions (Chrome & Firefox)</em></p>
+  </div>
+  
+  <div class="thumb">
+    
+    <img src="/images/work/newzupp.jpg" alt="newzupp-jigar-patel"></img>
+    
+    <h2><a href="https://github.com/jagira/newzupp">Newzupp</a></h2>
 
->Printfriendly makes print friendly version of any web page.
-
-I work on algorithm improvement. I have also built the Google Chrome
-extension and implemented localization features in the application.
-
-_(Technologies used - Javascript, Ruby on Rails)_
-
-##Pet projects
-
-###Newzupp
-
-![Newzupp](/images/work/newzupp.jpg)
-
-_Status: Inactive_
-
->Newzupp is an online news aggregator. It aggregates news from leading
+    <p>Newzupp is an online news aggregator. It aggregates news from leading
 social news sites like Reddit, Tweetmeme, Digg, Facebook and
 Hackernews. Newzupp aggregates and then processes the stories to find
 the most popular stories at any given time.
+</p>
+    <p>I built the app using PHP in April 2010 in order to learn CodeIgniter framework. It got featured as
+<a href="http://www.programmableweb.com/mashup/newzupp">Programmableweb's Mashup of the day</a> in April 2010.
+<br/>
+In early 2011, I migrated the app to Rails.</p>
 
-I built the app using PHP in April 2010 in 15 hours. It got featured as
-[Programmableweb's Mashup of the day](http://www.programmableweb.com/mashup/newzupp) in April 2010.
+    
+    <p>Technologies Used - <em>Ruby on Rails, APIs of Digg, Reddit, Tweetmeme,
+Facebook and Hackernews</em></p>
+  
+    <p>Work Done - <em>Everything</em></p>
+  </div>
 
-In 2011, I migrated the app to Ruby on Rails 3.0 in 30 hours ([my experience](http://jigarpatel.in/blog/2011/02/28/how-i-built-newzupp-in-30-hours/)). [[Source code](https://github.com/jagira/newzupp)]
+  <div class="thumb">
+    
+    <img src="/images/work/newzupp_v2.png" alt="newzupp-v2-jigar-patel"></img>
+    
+    <h2><a href="http://printfriendly.com">Printfriendly</a></h2>
 
-_(Technologies used - Ruby on Rails, APIs of Digg, Reddit, Tweetmeme,
-Facebook and Hackernews)_
+    <p>Printfriendly makes print friendly version of any web page.</p>
+    
+    <p>Technologies Used - <em>Javascript, Ruby on Rails</em></p>
+  
+    <p>Work Done - <em>Algorithm improvement and optimization, localization feature in the js script and browser extensions (Chrome & Firefox)</em></p>
+  </div>
+
+  <div class="thumb">
+    
+    <img src="/images/work/printfriendly.jpg" alt="printfriendly-jigar-patel"></img>
+    
+    <h2><a href="http://printfriendly.com">Printfriendly</a></h2>
+
+    <p>Printfriendly makes print friendly version of any web page.</p>
+    
+    <p>Technologies Used - <em>Javascript, Ruby on Rails</em></p>
+  
+    <p>Work Done - <em>Algorithm improvement and optimization, localization feature in the js script and browser extensions (Chrome & Firefox)</em></p>
+  </div>
+
+</div>
 
 ###Newzupp v2
 
