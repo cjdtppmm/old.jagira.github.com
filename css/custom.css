@@ -3,9 +3,10 @@ body {
 }
 
 div.site {
-  width: 60em;
+  width: 45em;
 }
 
+img { width: 100%; }
 a { color: #41B7D8; }
 
 a:visited { color: #41B7D8; }
@@ -18,6 +19,7 @@ ul.posts span {
   color: rgba(0, 0, 0, 0.75);
 }
 
+div#home h1 { font-weight: normal; font-size: 22px; }
 /** Tables **/
 
 th, td {
