@@ -7,10 +7,20 @@ title: Jigar Patel - JAP
   <h1>Recent Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-    <li>
-    <!--<span>{{ post.date | date_to_string }}</span> &raquo; -->
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+        {% if forloop.index == 1 %}
+            <li class="featured">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                {% if post.image %}
+                <div><img src="{{ post.image }}" alt="{{ post.title }}"></img></div>
+                {% endif %}
+                <p class="summary">{{ post.summary }}</p>
+            </li>
+        {% else %}
+            <li>
+                <!--<span>{{ post.date | date_to_string }}</span> &raquo; -->
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endif %}
     {% endfor %}
   </ul>
 

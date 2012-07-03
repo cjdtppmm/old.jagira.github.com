@@ -19,6 +19,16 @@ ul.posts span {
   color: rgba(0, 0, 0, 0.75);
 }
 
+li.featured a { font-size: 18px; color: #2D6FD2; width: auto; }
+
+li.featured { margin-bottom: 20px; }
+
+li.featured img { margin: 5px 0px; }
+li.featured p.summary {
+    margin: 0 0;
+    font-size: 16px;
+}
+
 div#home h1 { font-weight: normal; font-size: 22px; }
 /** Tables **/
 
