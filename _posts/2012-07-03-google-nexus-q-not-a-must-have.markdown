@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Nexus Q != Must Have Item"
+title: "Google Nexus Q - An awesome device without any takers"
 date: 2012-07-03 21:05
 comments: true
 image: /images/nexus-q.jpg
