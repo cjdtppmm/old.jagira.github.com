@@ -3,16 +3,10 @@ layout: post
 title: "Google Nexus Q - An awesome device without any takers"
 date: 2012-07-03 21:05
 comments: true
-image: /images/nexus-q.jpg
-summary: "Nexus Q is Google's way of demonstrating the utility of Android
-OS. They also want to show that a low cost device can be made in
-America."
 tags:
 - review
 - gadgets
 ---
-
-![Google Nexus Q](/images/nexus-q.jpg)
 
 Nexus Q is a beautiful device with an attractive hardware design. It
 also works painlessly with other Android devices.
