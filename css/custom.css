@@ -1,115 +1,143 @@
 body {
-  font-size: 16px;
+  background-color: #FFF;
+  font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+  line-height: 1.5em;
+  color: #222;
 }
 
-div.site {
-  width: 45em;
+header {
+  height: 121px;
+  background: #ffffff url('/assets/img/bg-site.png') repeat top left;
 }
 
-img { width: 100%; }
-a { color: #41B7D8; }
-
-a:visited { color: #41B7D8; }
-
-ul.posts a {
-  color: #333;
+header .container {
+  padding: 11px 0px 10px 0px;
 }
 
-ul.posts span {
-  color: rgba(0, 0, 0, 0.75);
+.header-avatar { float: left; }
+
+.header-avatar > a {
+  width: 100px;
+  height: 100px;
+  display: block;
+  border-radius: 200px;
+  background-size: cover;
+  box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5),inset 0 0 2px 1px rgba(0,0,0,0.05);
 }
 
-li.featured a { font-size: 18px; color: #2D6FD2; width: auto; }
-
-li.featured { margin-bottom: 20px; }
-
-li.featured img { margin: 5px 0px; }
-li.featured p.summary {
-    margin: 0 0;
-    font-size: 16px;
-}
-
-div#home h1 { font-weight: normal; font-size: 22px; }
-/** Tables **/
-
-th, td {
-  padding: 5px 0px;
-}
-
-td { border-bottom: 1px solid #444; }
-
-/** Post **/
-
-#post h2 a{
-  font-size: 120%;
-  color: #333;
-  text-decoration: none;
-}
-
-#post-meta ul{
-  list-style: none;
-  margin-left: 0px;
-}
-
-#post-meta ul li {
-  padding: 10px 25px;
+.header-title {
+  float: right;
   display: inline-block;
+  margin-top: 2px;
 }
 
-li#date {
-  background: url(../images/icons/time_clock.png) -0.4% 45% no-repeat;
-  color: rgba(0, 0, 0, 0.75);
-  font-size: 80%;
+.header-title h1 {
 }
 
-li#tags {
-  background: url(../images/icons/tag.png) -0.4% 51% no-repeat;
+.header-title h2 {
+  font-size: 25px;
+  line-height: 1.25em;
+  font-weight: normal;
 }
 
-li#tags a {
-  color: #41B7D8;
+.header-title h2 a:hover { text-decoration: none; }
+
+.title { 
+  text-align: center; 
+  margin: 5px 0px 15px 0px;
+}
+
+.title .container {
+}
+
+.title .container a {
+  padding: 0px 10px;
+  color: #888;
+}
+
+.title .container a:hover { color: #222; text-decoration: none; }
+
+#main .container p {
+  font-size: 16px;
+  font-family: verdana;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin: 0px;
+}
+
+li.postlet a {
+  font-size: 20px;
+  line-height: 2em;
+  color: #08C;
+  text-rendering: optimizelegibility;
+}
+
+li.postlet a:hover {
+  text-decoration: none;
+  color: #005580;
+}
+
+p.summary {
+  border-left: 4px solid #e5e8f0;
+  padding-left: 15px;
+  font-size: 14px;
+  color: #888;
+  font-family: verdana;
+}
+
+p.summary a.read_more_link {
+  font-size: 14px;
+  display: block;
+}
+
+.profile-links a {
+  margin-left: 10px;
+  color: #222;
+}
+
+.profile-links a:hover {
   text-decoration: none;
 }
 
-/** Post End **/
+div#post h2 { margin-bottom: 20px; }
+div#post h2 a:hover { text-decoration: none; }
+div#post h3 { font-size: 20px; line-height: 1.5em; }
+div#post h4 { line-height: 1.5em; margin: 10px 0px; }
+div#post h5 { font-size: 16px; }
 
-/** Footer **/
+div#post { font-size: 16px; line-height: 1.5em; font-family: verdana; }
+div#post ul li { margin: 10px 0px; }
 
-.site .footer {
-  color: #333;
-  font-size: 90%;
-  border-top-color: #aaa;
+@media (max-width: 719px) {
+  li.postlet a {
+    font-size: 18px;
+    line-height: 1.5em;
+  }
+
+  li.postlet { margin: 10px 0px; }
 }
 
-.site .footer .contact a {
-  color: #333;
+@media (min-width: 600px) {
+  .container { width: 40em; }
 }
 
-.site .footer .rss {
-  margin-right: 0px;
+/* Mobile Portraits */
+@media (max-width: 599px) {
+  header { height: 241px; }
+
+  .header-avatar { float: none; text-align: center; }
+  .header-avatar a { display: inline-block; }
+  .header-title { float: none; display: block; text-align: center; }
+  .header-title h1 { font-size: 30px; line-height: 1.25em; }
+  .header-title h2 { font-size: 20px;  }
 }
 
-/** Grid **/
+@media (max-width: 400px) {
+  .header-title h1 { font-size: 24px; }
+  .header-title h2 { font-size: 18px; }
 
-div.grid { overflow: hidden; }
-
-div.thumb {
-  float: left;
-  width: 45%;
-  margin: 0 2% 2% 2%;
-  min-width: 450px;
-  font-size: 90%;
-  border: 2px solid #c2c2c2;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
+  li.postlet a { font-size: 16px; }
 }
 
-.thumb img {
-  width: 98%;
-  margin: 1% 1%;
-}
-
-.thumb h2, .thumb p {
-  margin: 0.5em 2%;
-}

@@ -9,7 +9,6 @@ title: Scraping BSE India Site - Get list of all listed companies along with the
 wordpress_id: '66'
 tags:
 - programming
-- hacking
 - ruby
 ---
 

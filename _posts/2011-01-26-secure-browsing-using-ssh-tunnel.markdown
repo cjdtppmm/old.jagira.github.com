@@ -8,7 +8,6 @@ title: Secure Browsing using SSH Tunnel
 wordpress_id: '63'
 tags:
 - howto
-- hacking
 ---
 
 ***SSH*** (Secure Shell) is a network protocol which allows secure

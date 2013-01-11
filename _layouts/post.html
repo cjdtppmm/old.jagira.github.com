@@ -4,17 +4,6 @@ layout: default
 <div id="post">
 
   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-  <div id="post-meta">
-    <ul>
-      <li id="date">{{ page.date | date_to_string }}</li>
-      <li id="tags">
-        {% for tag in page.tags %}
-          {% if forloop.index > 1 %}<span>,</span>{% endif %}
-          <a class="tag" href="#">{{ tag}}</a>
-        {% endfor %}
-      </li>
-    </ul>
-  </div>
 
   {{ content }}
 
