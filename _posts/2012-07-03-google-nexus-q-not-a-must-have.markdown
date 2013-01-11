@@ -3,10 +3,6 @@ layout: post
 title: "Google Nexus Q - An awesome device without any takers"
 date: 2012-07-03 21:05
 comments: true
-summary: | 
-  The easiest way to achieve a visual hierarchy in a blog article
-  is by making sensible use of a title, headings and subheadings that have
-  sufficient contrast with each other and the body text.
 tags:
 - review
 - gadgets
