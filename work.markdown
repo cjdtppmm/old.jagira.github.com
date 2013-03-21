@@ -229,7 +229,7 @@ Source code - [Rails Backend](https://bitbucket.org/jagira/newzupp_v2)
 and [Chrome
 Extension](https://bitbucket.org/jagira/newzupp_v2_chrome_extension)
 
-Technologies Used: Rails 3, Google Chrome's browser APIs
+Technologies Used: Rails 3, MongoDB, Google Chrome's browser APIs
 
 ---------------------------------------------
 
