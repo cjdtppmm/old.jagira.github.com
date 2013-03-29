@@ -4,9 +4,7 @@ title: "Work - Jigar Patel"
 ---
 
 I am working as a professional programmer since last 3 and a half years.
-I am proficient with ruby, javascript and bash scripting. I am also good
-at basic devops and have setup many servers including a few multi-node
-load balanced server setups.
+I am proficient with ruby, javascript and basic devops.
 
 Before working as a programmer, I worked with IBM as an SAP consultant
 and then as an independent Information Security Auditor.
