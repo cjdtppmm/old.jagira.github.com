@@ -10,6 +10,8 @@ tags:
 - ruby
 ---
 
+** This post is old!!! Checkout [Reddit's dev site](http://www.reddit.com/dev/api) for detailed API docs.**
+
 Reddit is social news site which is quite popular among geeks.
 Reddit provides an API which allows third party apps to access
 stories, votes, comments etc. Reddit team is also developing API
