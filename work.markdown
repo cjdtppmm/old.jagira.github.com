@@ -15,22 +15,6 @@ a few schools are already beta testing it.
 Here are some more details about the coding projects that I have worked
 on -
 
-------------
-
-####[Adhi](http://adhi.in)
-
-Adhi is a platform that powers (will power) online assessment systems of
-schools and other educational institutions. The app features responsive
-design and can be used from a smartphone, tablet or computer.
-
-![Adhi - An online assessment platform](/images/work/adhi.png)
-
-#####Technologies Used
-
-Ruby on Rails 3.2, Postgres DB, Twitter Bootstrap, Ubuntu Server
-
--------------
-
 ####[Tag Solutions](http://tag.ca)
 
 Tag Solutions is a consulting firm run by [Tim
